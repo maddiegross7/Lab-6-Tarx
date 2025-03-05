@@ -1,7 +1,7 @@
 CC = gcc 
-INCLUDES = -I/home/makefile/cs360/include
+INCLUDES = -I/home/mrjantz/cs360/include
 CFLAGS = $(INCLUDES)
-LIBDIR = /home/makefile/cs360/lib
+LIBDIR = /home/mrjantz/cs360/lib
 LIBS = $(LIBDIR)/libfdr.a 
 
 EXECUTABLES = bin/tarx
